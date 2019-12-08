@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/insert_image"
+        android:icon="@drawable/ic_add"
+        android:title="Rate App"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rate"
+        android:title="Rate App"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/moreapps"
+        android:title="More Apps"
+        app:showAsAction="never" />
+
+
+</menu>
